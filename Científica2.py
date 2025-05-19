@@ -1,3 +1,13 @@
+"""
+Nome do Arquivo: calcCientifica.py
+Autor: Henrxque e Pedro Heinz
+Email: anonimosx1@gmail.com
+Data de Criação: 24/04/2024
+
+Descrição: Calculadora ciêntifica utilizando métodos numéricos implementada sem uso de bibliotecas python
+Licença: MIT
+"""
+
 #Calculadora GUI
 
 import tkinter as tk
